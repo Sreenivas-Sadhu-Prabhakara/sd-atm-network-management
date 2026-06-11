@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-atm-network-management
+description: "BIAN Service Domain: ATM Network Management (Operate pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Channels"
+  bian/asset-type: "ATM Network"
+  bian/control-record: "ATM Network Operating Session"
